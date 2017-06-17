@@ -23,3 +23,5 @@ class Solution(object):
 a=Solution()
 result=a.arrayPairSum([1,4,3,2])
 print(result)
+
+#return sum(sorted(nums)[::2])
